@@ -1,0 +1,391 @@
+{
+"music":{
+		"music_campaign":[
+			{"file":"Brandish (PC-98) - Cave.ogg","source":"sounds/PC-98","volume":1},
+			{"file":"Brandish (PC-98) - Ruins.ogg","source":"sounds/PC-98","volume":1},
+			{"file":"Brandish (PC-98) - Ancient Statue.ogg","source":"sounds/PC-98","volume":1},
+		],
+		"music_campaign_hyperspace":[
+			{"file":"Brandish (PC-98) - Ending I.ogg","source":"sounds/PC-98","volume":1},
+			{"file":"Brandish (PC-98) - Shop 1.ogg","source":"sounds/PC-98","volume":1},
+			{"file":"Brandish (PC-98) - Stage Clear.ogg","source":"sounds/PC-98","volume":1},
+			{"file":"Brandish (PC-98) - Game Over.ogg","source":"sounds/PC-98","volume":1},
+		],
+		"music_title":[	
+			{"file":"Brandish (PC-98) - Opening.ogg","source":"sounds/PC-98","volume":1} 
+		],
+		"music_combat":[
+			{"file":"Brandish (PC-98) - Crabdevil.ogg","source":"sounds/PC-98","volume":1},
+			{"file":"Brandish (PC-98) - Dearthwidow.ogg","source":"sounds/PC-98","volume":1},
+			{"file":"Brandish (PC-98) - Dela Delon.ogg","source":"sounds/PC-98","volume":1},
+			{"file":"Brandish (PC-98) - Ending II.ogg","source":"sounds/PC-98","volume":1},
+			{"file":"Brandish (PC-98) - Gadobistall.ogg","source":"sounds/PC-98","volume":1},
+			{"file":"Brandish (PC-98) - Headless.ogg","source":"sounds/PC-98","volume":1},
+			{"file":"Brandish (PC-98) - Lobster.ogg","source":"sounds/PC-98","volume":1},
+			{"file":"Brandish (PC-98) - Ninja.ogg","source":"sounds/PC-98","volume":1},
+		],
+		"music_default_market_neutral":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Stage Clear.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_default_market_hostile":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Tower.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_default_market_friendly":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Shop 2.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_default_encounter_neutral":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Stage Clear.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_default_encounter_hostile":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Tower.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_default_encounter_friendly":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Shop 2.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		
+		"music_pirates_market_neutral":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Fortress.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_pirates_market_hostile":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Azitakaha.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_pirates_market_friendly":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Dink.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_pirates_encounter_neutral":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Fortress.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_pirates_encounter_hostile":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Azitakaha.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_pirates_encounter_friendly":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Dink.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_luddite_market_neutral":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Stage Clear.ogg",
+				],
+				"randomStart":true,
+			},
+		],
+		"music_luddite_market_hostile":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Dark Zone.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_luddite_market_friendly":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Game Over.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_luddite_encounter_neutral":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Stage Clear.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_luddite_encounter_hostile":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Dark Zone.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_luddite_encounter_friendly":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Game Over.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		
+		"music_diktat_market_neutral":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Fortress.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_diktat_market_hostile":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Azitakaha.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_diktat_market_friendly":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Shop 2.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_diktat_encounter_neutral":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Fortress.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_diktat_encounter_hostile":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Azitakaha.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_diktat_encounter_friendly":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Shop 2.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		
+		"music_tritach_market_neutral":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Ending III.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_tritach_market_hostile":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Rakshasa.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_tritach_market_friendly":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Disk Copy.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_tritach_encounter_neutral":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Ending III.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_tritach_encounter_hostile":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Rakshasa.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_tritach_encounter_friendly":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Disk Copy.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_hegemony_market_neutral":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Fortress.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_hegemony_market_hostile":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Azitakaha.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_hegemony_market_friendly":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Shop 2.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_hegemony_encounter_neutral":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Fortress.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_hegemony_encounter_hostile":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Azitakaha.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+		"music_hegemony_encounter_friendly":[
+			{
+				"source":"sounds/PC-98",
+				"volume":0.2,
+				"files":[
+					"Brandish (PC-98) - Shop 2.ogg",
+				],
+				"randomStart":true, 
+			},
+		],
+	},
+}
